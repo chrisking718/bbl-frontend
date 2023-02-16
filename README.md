@@ -2,7 +2,14 @@
 
 This application allows you to store information about Black-owned businesses that you come across.
 
-## User Stories
+
+## Link to deployed Front-end
+
+https://bbl-frontend.netlify.app/
+
+
+### User Stories
+
 - As a user, I will be able to visit the deployed website
 - As a user, I will be able to click on the "BBL" button and see the home page.
 - As a user, I will be able to click on the "ALL SITES" button and be taken to a page where I can see a table of all saved sites. 
