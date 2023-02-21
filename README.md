@@ -3,9 +3,16 @@
 This application allows you to store information about Black-owned businesses that you come across.
 
 
-## Link to deployed Front-end
 
-https://bbl-frontend.netlify.app/
+
+## Links
+
+https://bbl-frontend.netlify.app/ - Deployed Front end
+
+https://bbl-backend.onrender.com/ - Deployed Back end
+
+https://github.com/chrisking718/bbl-backend - Back end repo
+
 
 
 ### User Stories
